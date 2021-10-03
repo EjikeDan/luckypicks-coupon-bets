@@ -1,0 +1,137 @@
+{
+	"bets": [{
+			"code": 10000,
+			"selections": [{
+					"random-6": [29, 1, 30, 33, 29, 40],
+					"amount": 50,
+					"state": "lose",
+					"winnigs": ""
+				},
+				{
+					"preballs-no": 31,
+					"random-6": [29, 1, 30, 33, 29, 40],
+					"amount": 50,
+					"state": "lose",
+					"winnigs": ""
+				},
+				{
+					"firstball-color": ["yellow", "red", "green", "blue"],
+					"random-6": [29, 1, 30, 33, 29, 40],
+					"amount": 50,
+					"state": "lose",
+					"winnigs": ""
+				},
+				{
+					"preballs-122.5": "under",
+					"random-6": [29, 1, 30, 33, 29, 40],
+					"amount": 50,
+					"state": "lose",
+					"winnigs": ""
+				},
+				{
+					"firstball": "even",
+					"random-6": [29, 1, 30, 33, 29, 40],
+					"amount": 50,
+					"state": "lose",
+					"winnigs": ""
+				},
+				{
+					"preballs-122.5": "under",
+					"random-6": [29, 1, 30, 33, 29, 40],
+					"amount": 50,
+					"state": "lose",
+					"winnigs": ""
+				},
+				{
+					"preballs-total": "odd",
+					"random-6": [29, 1, 30, 33, 29, 40],
+					"amount": 50,
+					"state": "lose",
+					"winnigs": ""
+				},
+				{
+					"totalballs-857.5": "under",
+					"random-6": [29, 1, 30, 33, 29, 40],
+					"amount": 50,
+					"state": "lose",
+					"winnigs": ""
+				},
+				{
+					"firstball-24.5": "under",
+					"random-6": [29, 1, 30, 33, 29, 40],
+					"amount": 50,
+					"state": "win",
+					"winnigs": "90"
+				}
+			],
+			"id": 1
+		},
+		{
+			"code": 20000,
+			"selections": [{
+					"random-6": [29, 1, 30, 33, 29, 40],
+					"amount": 50,
+					"state": "win",
+					"winnigs": "90"
+				},
+				{
+					"preballs-no": 31,
+					"random-6": [29, 1, 30, 33, 29, 40],
+					"amount": 50,
+					"state": "lose",
+					"winnigs": ""
+				},
+				{
+					"firstball-color": ["yellow", "red", "green", "blue"],
+					"random-6": [29, 1, 30, 33, 29, 40],
+					"amount": 50,
+					"state": "lose",
+					"winnigs": ""
+				},
+				{
+					"preballs-122.5": "under",
+					"random-6": [29, 1, 30, 33, 29, 40],
+					"amount": 50,
+					"state": "lose",
+					"winnigs": ""
+				},
+				{
+					"firstball": "even",
+					"random-6": [29, 1, 30, 33, 29, 40],
+					"amount": 50,
+					"state": "lose",
+					"winnigs": ""
+				},
+				{
+					"preballs-122.5": "under",
+					"random-6": [29, 1, 30, 33, 29, 40],
+					"amount": 50,
+					"state": "lose",
+					"winnigs": ""
+				},
+				{
+					"preballs-total": "odd",
+					"random-6": [29, 1, 30, 33, 29, 40],
+					"amount": 50,
+					"state": "lose",
+					"winnigs": ""
+				},
+				{
+					"totalballs-857.5": "under",
+					"random-6": [29, 1, 30, 33, 29, 40],
+					"amount": 50,
+					"state": "lose",
+					"winnigs": ""
+				},
+				{
+					"firstball-24.5": "under",
+					"random-6": [29, 1, 30, 33, 29, 40],
+					"amount": 50,
+					"state": "lose",
+					"winnigs": ""
+				}
+			],
+			"id": 2
+		}
+	]
+}
